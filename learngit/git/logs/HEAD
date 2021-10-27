@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 2bb436c6230b3399310fb8b81c39fd9232834dae xuwenxuan <xuwenxuan@example.com> 1635236059 +0800	commit (initial): wrote a readme file
+2bb436c6230b3399310fb8b81c39fd9232834dae 830281713453dabea559e0f4d2a45f900be1b969 xuwenxuan <xuwenxuan@example.com> 1635237249 +0800	commit: add distributed
+830281713453dabea559e0f4d2a45f900be1b969 38ecfa143711c79faae763e20d539bc3da569ff2 xuwenxuan <xuwenxuan@example.com> 1635237357 +0800	commit: kong
+38ecfa143711c79faae763e20d539bc3da569ff2 288d4bce47ec0126be5f337f97b324f22278e968 xuwenxuan <xuwenxuan@example.com> 1635237467 +0800	commit: append GPL
+288d4bce47ec0126be5f337f97b324f22278e968 38ecfa143711c79faae763e20d539bc3da569ff2 xuwenxuan <xuwenxuan@example.com> 1635237686 +0800	reset: moving to HEAD^
+38ecfa143711c79faae763e20d539bc3da569ff2 288d4bce47ec0126be5f337f97b324f22278e968 xuwenxuan <xuwenxuan@example.com> 1635237768 +0800	reset: moving to 288d4bc
+288d4bce47ec0126be5f337f97b324f22278e968 a959fcbf399b799aef4eadf4d492f570aafdf0c8 xuwenxuan <xuwenxuan@example.com> 1635240367 +0800	commit: understand how stage works
+a959fcbf399b799aef4eadf4d492f570aafdf0c8 b06cc51d788f8a0c28eeac462212d08b10de381b xuwenxuan <xuwenxuan@example.com> 1635241438 +0800	commit: git tracks changes
+b06cc51d788f8a0c28eeac462212d08b10de381b 9089b415e871d4c42b01bbe92eea60023a98d546 xuwenxuan <xuwenxuan@example.com> 1635241908 +0800	commit: git tracks changes of file
+9089b415e871d4c42b01bbe92eea60023a98d546 59a2dd292887d8a13d04079d557e18361478be5c xuwenxuan <xuwenxuan@example.com> 1635300766 +0800	commit: add test.txt
+59a2dd292887d8a13d04079d557e18361478be5c b81d4fd65f0d6b13de38cadf9280990800c7f06a xuwenxuan <xuwenxuan@example.com> 1635300856 +0800	commit: remove test.txt
